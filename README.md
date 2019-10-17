@@ -5,7 +5,6 @@ The objective was to implement 5 classification algorithms for a problem of our 
 I programmed KNN, LDA, and QDA classifiers for the original project in R, but redeveloped and expanded the scope of the project using Python and functions available from various packages.
 I've included my R functions in this repository as a demonstration of ability.
 The compiled html can be viewed [here](https://htmlpreview.github.io/?https://github.com/msieviec/fifa/blob/master/fifa_markdown_2.html).
-).
 
 # Files
 * algorithms/ - classifiers written in R
