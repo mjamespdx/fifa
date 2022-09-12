@@ -4,7 +4,7 @@ This is an updated version of my final project for the STAT410 Introduction to S
 The objective was to implement 5 classification algorithms for a problem of our choice and to write as many of them as we could ourselves.
 I programmed KNN, LDA, and QDA classifiers for the original project in R, but redeveloped and expanded the scope of the project using Python and functions available from various packages.
 I've included my R functions in this repository as a demonstration of ability.
-The compiled html can be viewed [here](https://htmlpreview.github.io/?https://github.com/msieviec/fifa/blob/master/fifa.html).
+The compiled html can be viewed [here](https://mjamespdx.github.io/fifa/fifa.html).
 
 # Files
 * algorithms/ - classifiers written in R
